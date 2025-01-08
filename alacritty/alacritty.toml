@@ -1,0 +1,5 @@
+[general]
+import = ["~/.config/alacritty/rose-pine.toml"]
+
+[font]
+normal = { family = 'CaskaydiaCove Nerd Font Mono', style = 'Regular' }
