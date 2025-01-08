@@ -1,1 +1,1 @@
-Install the rose-pine-gtk-theme-full from the aur
+Install the rose-pine-gtk-theme-full for dunst
