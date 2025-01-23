@@ -12,7 +12,7 @@ berryc focus_color         191724
 berryc unfocus_color       191725
 berryc inner_focus_color   EBBCBA
 berryc inner_unfocus_color 6E6A86
-berryc text_focus_color    ffffff
+berryc text_focus_color    1f1d2e
 berryc text_unfocus_color  E0DEF4
 
 # Other options
